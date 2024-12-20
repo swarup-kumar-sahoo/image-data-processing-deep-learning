@@ -2,12 +2,13 @@
 
 This project focuses on basic image processing techniques using Python and deep learning libraries. The image of a cow is taken, and various image processing tasks are performed on it, such as converting it to a numpy array, resizing, and converting from RGB to Grayscale.
 
+![cooow](https://github.com/user-attachments/assets/cf5d2ac6-d29b-4fff-b391-bbe4c89d2f87)
+
 ## Table of Contents
 1. [Objective](#objective)
 2. [Libraries Used](#libraries-used)
 3. [Approach](#approach)
 4. [Technologies Used](#technologies-used)
-5. [How to Run](#how-to-run)
 
 ---
 
